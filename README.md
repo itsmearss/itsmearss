@@ -9,10 +9,6 @@
 <img alt="itsmearss's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmearss&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-<a href="https://github.com/itsmearss">
-<img alt="itsmearss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsmearss&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 ## 🚀 Languages and Tools:
 
 <a href="https://github.com/itsmearss">
